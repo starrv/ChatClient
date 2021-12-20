@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author valenciastarr
+ *
+ */
+interface chatClient {
+}
