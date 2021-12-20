@@ -663,15 +663,15 @@ public class ChatClientApp extends JFrame implements ActionListener, MouseListen
 
 	public void keyPressed(KeyEvent e) {
 		// TODO Auto-generated method stub
-		/*if(e.getKeyCode()==KeyEvent.VK_ESCAPE);
+		if(e.getKeyCode()==KeyEvent.VK_Q);
 		{
 			disconnect();
 		}
-		if(e.getKeyCode()==KeyEvent.VK_S)
+		if(e.getKeyCode()==KeyEvent.VK_C)
 		{
 			if(done==true)
-				connect(serverName,serverPort);
-		}*/
+				connect(host, port);
+		}
 	}
 
 
