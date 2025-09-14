@@ -1,3 +1,3 @@
 # ChatClient
 
-This is a Java application where one could engage in a group chat of 50 maximum.  This is the client software.
+This is an application where one could engage in a group chat of 50 maximum. Multithreading and concurrency were implemented to ensure that all messages are sent and displayed properly at all times. All information sent over the network is encrypted using an encryption algorithm I created. Participants have the option of sending a message to all other participants or sending a message private to specific participants. For the demonstration provided I hosted the chat server on an Amazon EC2 server so communication could happen over the internet. Please note that due to the cost of deployment, the chat server may not currently be deployed.
