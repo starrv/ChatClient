@@ -1,2 +1,3 @@
-This is a Java application that started as a school project where one can connect to a ChatServer and engage in a  group chat of up to 50 users.  This is a solo project.
 # ChatClient
+
+This is a Java application where one could engage in a group chat of 50 maximum.  This is the client software.
